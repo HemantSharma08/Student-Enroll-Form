@@ -25,7 +25,7 @@ This project is a **Student Enrollment Form** that stores data in the `STUDENT_T
 Here are some screenshots showcasing the Student Enrollment Form:
 
 ### 1. Enrollment Form Interface
-![Enrollment Form](./screenshots/enrollment_form.png)
+![Enrollment Form](C:\Users\Asus\Pictures\Screenshots)
 
 ### 2. Form Submission Confirmation
 ![Form Submission Confirmation](./screenshots/form_submission.png)
