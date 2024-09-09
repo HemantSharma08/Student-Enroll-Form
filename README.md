@@ -25,13 +25,16 @@ This project is a **Student Enrollment Form** that stores data in the `STUDENT_T
 Here are some screenshots showcasing the Student Enrollment Form:
 
 ### 1. Enrollment Form Interface
-![Enrollment Form](C:\Users\Asus\Pictures\Screenshots)
+![Screenshot 2024-09-09 224535](https://github.com/user-attachments/assets/7e5a97e9-1d41-4cfc-ad25-0d39e2e597d3)
 
-### 2. Form Submission Confirmation
-![Form Submission Confirmation](./screenshots/form_submission.png)
+
+### 2. JSONPowerDB
+![Screenshot 2024-09-09 224646](https://github.com/user-attachments/assets/57fffd16-cc52-46f7-9306-b6b6c16f06e1)
+
 
 ### 3. Database Structure in JsonPowerDB
-![Database Structure](./screenshots/database_structure.png)
+![Screenshot 2024-09-09 224554](https://github.com/user-attachments/assets/25767690-f4e2-4b46-8bac-61a624c87d85)
+
 
 ## Scope of Functionalities
 - **Add Student**: Insert new records.
